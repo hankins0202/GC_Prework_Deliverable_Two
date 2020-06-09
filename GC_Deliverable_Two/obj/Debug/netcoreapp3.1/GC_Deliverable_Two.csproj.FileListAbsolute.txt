@@ -1,0 +1,12 @@
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/bin/Debug/netcoreapp3.1/GC_Deliverable_Two.deps.json
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/bin/Debug/netcoreapp3.1/GC_Deliverable_Two.runtimeconfig.json
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/bin/Debug/netcoreapp3.1/GC_Deliverable_Two.runtimeconfig.dev.json
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/bin/Debug/netcoreapp3.1/GC_Deliverable_Two.dll
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/bin/Debug/netcoreapp3.1/GC_Deliverable_Two.pdb
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/obj/Debug/netcoreapp3.1/GC_Deliverable_Two.csprojAssemblyReference.cache
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/obj/Debug/netcoreapp3.1/GC_Deliverable_Two.AssemblyInfoInputs.cache
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/obj/Debug/netcoreapp3.1/GC_Deliverable_Two.AssemblyInfo.cs
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/obj/Debug/netcoreapp3.1/GC_Deliverable_Two.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/obj/Debug/netcoreapp3.1/GC_Deliverable_Two.dll
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/obj/Debug/netcoreapp3.1/GC_Deliverable_Two.pdb
+/Users/elizabeth/Projects/GC_Deliverable_Two/GC_Deliverable_Two/obj/Debug/netcoreapp3.1/GC_Deliverable_Two.genruntimeconfig.cache
